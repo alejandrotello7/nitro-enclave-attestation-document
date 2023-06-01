@@ -14,4 +14,3 @@ webpki = "0.22.0"
 byteorder = "1.3.4"
 serde_with = { version = "1.9.4", default_features = false }
 aws-nitro-enclaves-cose = "0.5.0"
-openssl = { version = "0.10.31", features = ["vendored"] }
