@@ -93,6 +93,7 @@ version = "0.1.0"
 dependencies = [
  "aws-nitro-enclaves-cose",
  "byteorder",
+ "openssl",
  "rustls",
  "serde",
  "serde_cbor",
